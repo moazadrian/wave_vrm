@@ -4,13 +4,13 @@ const InstagramGrid = () => {
    // Replace these with your actual image URLs or import statements
    const images = [
     '/surfing.png',
-    '/Restaurants.png',
-    '/Tours.png',
+    '/restaurants.png',
+    '/tours.png',
     '/surfing.png',
-    '/Restaurants.png',
-    '/Tours.png',
+    '/restaurants.png',
+    '/tours.png',
     '/surfing.png',
-    '/Restaurants.png'
+    '/restaurants.png'
   ];
   
     return (

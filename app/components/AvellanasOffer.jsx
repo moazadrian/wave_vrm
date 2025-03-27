@@ -18,13 +18,13 @@ const AvellanasOffer = () => {
 
         {/* Image Placeholder 2 */}
         <div>
-        <img src="/Restaurants.png" alt="Restaurants"/>
+        <img src="/restaurants.png" alt="Restaurants"/>
           <h3 className="text-xl font-semibold mt-4 text-gray-900">Restaurants</h3>
         </div>
 
         {/* Image Placeholder 3 */}
         <div>
-        <img src="/Tours.png" alt="Tours"/>
+        <img src="/tours.png" alt="Tours"/>
           <h3 className="text-xl font-semibold mt-4 text-gray-900">Tours</h3>
         </div>
       </div>
